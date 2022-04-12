@@ -5,7 +5,7 @@ int main()
   int n = 50;
   while (n>0)
     {
-    printf("%d",n);
+    printf("%d ",n);
     n = n - 1;
     }
     printf("Loop body finished");
